@@ -17,5 +17,5 @@ Drag force calculations are used in:
 
 
 
-## How to Run
-python drag_force.py
+## Run
+dragforce.py
